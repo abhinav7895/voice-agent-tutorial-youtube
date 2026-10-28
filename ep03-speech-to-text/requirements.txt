@@ -1,0 +1,7 @@
+openai-whisper
+faster-whisper
+sounddevice
+soundfile
+numpy
+matplotlib
+deepgram-sdk
